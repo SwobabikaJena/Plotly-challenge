@@ -5,10 +5,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 Step 1: Plotly
 
 
-Use the D3 library to read in samples.json.
+1. Use the D3 library to read in samples.json.
 
 
-Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
 
 
@@ -21,7 +21,7 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-Create a bubble chart that displays each sample.
+3. Create a bubble chart that displays each sample.
 
 
 
